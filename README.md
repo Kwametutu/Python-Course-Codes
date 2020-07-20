@@ -1,2 +1,2 @@
 # Python-Course-Codes
-Codes for exercise for Python Lessons on Coursera
+Codes for all exercises for Python Lessons on Coursera
